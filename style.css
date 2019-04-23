@@ -16,5 +16,13 @@
     padding: 30px 15px;
     background-color: #bbb;
   }
+
+  .form-section {
+    width: 70%;
+    margin: auto;
+  }
   
+  form {
+      display: block;
+  }
   
